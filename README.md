@@ -1,4 +1,5 @@
 ## Hi there 👋
+🌱 I’m currently learning python and ROS. It's hard to find a correct sequence for newbie.😭
 
 <!--
 **ym-789/ym-789** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
